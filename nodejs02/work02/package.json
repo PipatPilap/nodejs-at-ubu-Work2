@@ -1,0 +1,11 @@
+{
+  "name": "work2",
+  "version": "1.0.0",
+  "description": "work2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Pipat",
+  "license": "ISC"
+}
